@@ -20,20 +20,5 @@ NumPy
 Matplotlib
 Scikit-learn
 
-Project Structure:
-surface-crack-detection-cnn/
-│
-├── train.py
-├── requirements.txt
-├── README.md
-└── dataset/
-    ├── Positive/
-    └── Negative/
 
-## Dataset
 
-Dataset used for this project:
-
-https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
-
-This dataset contains positive and negative surface crack images used for training and evaluating the CNN model for industrial crack detection.
