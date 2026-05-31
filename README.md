@@ -22,7 +22,15 @@ Scikit-lear
 Project Structure:
 
 surface-crack-detection-cnn/
-│├── train.py├── requirements.txt├── README.md└── dataset/├── Positive/└── Negative/
+│
+├── train.py            # Model training code
+├── requirements.txt    # Required libraries
+├── README.md           # Project documentation
+│
+└── dataset/
+    │
+    ├── Positive/       # Crack images
+    └── Negative/       # Non-crack images
 
 **Dataset**
 
